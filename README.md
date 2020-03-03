@@ -2,6 +2,8 @@
 
 [VORLAGE ESCHER STIFTUNG](https://www.briefedition.alfred-escher.ch/briefe/#datemin=01.01.1830,datemax=31.12.1859,role=recipient): Nachfragen was für ein Framework verwendet wurde oder ob von scratch gemacht? Ich habe kein Framework gefunden. Hab klassen und Ids gegooglet aber nichs gefunden.
 
+[VORLAGE The English Diplomatic Correspondence of Thomas Bodley](http://www.livesandletters.ac.uk/cell/Bodley/bodleytimeline.html): Wurde mit [SMILE-widgets](https://www.simile-widgets.org/timeline/) gemacht. Sieht meiner Meinung nach sehr nach veratleter UI aus. Nicht wirklich zeitgemäss.
+
 # Notizen
 - [**Dribble inspiration**](https://dribbble.com/shots/3987883-Deals): so was könnte man komplett selber bauen, aber mit einfachen balkendiagram statt linien.
 - [**Dribble inspiration 2**](https://dribbble.com/shots/4959867-Experimentation-Analysis-Time-Series): untere grafik aber nur positives balkendiagram -> anzahl briefe.
